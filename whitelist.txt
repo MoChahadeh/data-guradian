@@ -5,4 +5,7 @@ instagram.com
 cdninstagram.com
 gmail.com
 outlook.com
-
+pool.ntp.org
+time.google.com
+time.cloudflare.com
+time.windows.com
